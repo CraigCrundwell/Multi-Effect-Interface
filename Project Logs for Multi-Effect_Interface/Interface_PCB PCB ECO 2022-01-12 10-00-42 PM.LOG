@@ -1,0 +1,24 @@
+Added Component: Designator=S?(TS-1185EC-C-D-B)
+Added Component: Designator=S?(TS-1185EC-C-D-B)
+Added Component: Designator=S?(TS-1185EC-C-D-B)
+Added Component: Designator=S?(TS-1185EC-C-D-B)
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=NetR1_2 Pin=S?-3
+Added Pin To Net: NetName=NetR2_2 Pin=S?-3
+Added Pin To Net: NetName=NetR6_2 Pin=S?-3
+Added Pin To Net: NetName=NetR7_2 Pin=S?-3
+Added Pin To Net: NetName=NetR1_2 Pin=S?-4
+Added Pin To Net: NetName=NetR2_2 Pin=S?-4
+Added Pin To Net: NetName=NetR6_2 Pin=S?-4
+Added Pin To Net: NetName=NetR7_2 Pin=S?-4
+Added Member To Class: ClassName=IO Member=Component S? Interface Button TBD
+Added Member To Class: ClassName=IO Member=Component S? Interface Button TBD
+Added Member To Class: ClassName=IO Member=Component S? Interface Button TBD
+Added Member To Class: ClassName=IO Member=Component S? Interface Button TBD

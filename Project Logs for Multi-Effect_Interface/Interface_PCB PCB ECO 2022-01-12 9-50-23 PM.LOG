@@ -1,0 +1,28 @@
+Added Component: Designator=D4(SP0503BAHTG)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "F2715CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP0503BAHTG/F2715CT-ND/1154322?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SP0503BAHTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-143 Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SP0503BAHTG/Littelfuse%20Inc./view-part/214427/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LMS8117AMP-3.3/NOPB/Texas%20Instruments/view-part/104396/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LMS8117AMP-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223-4 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LMS8117AMP-3.3/NOPB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LMS8117AMP-3.3/NOPB/Texas%20Instruments/view-part/104396/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=V_USB Pin=D4-2
+Added Pin To Net: NetName=USB_DM Pin=D4-3
+Added Pin To Net: NetName=USB_DP Pin=D4-4
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=3V3 Pin=U4-2
+Added Pin To Net: NetName=REG_IN Pin=U4-3
+Added Pin To Net: NetName=3V3 Pin=U4-4
+Added Member To Class: ClassName=ESP32_Interface Member=Component D4 SP0503BAHTG
+Added Member To Class: ClassName=Power Member=Component U4 LMS8117AMP-3.3/NOPB

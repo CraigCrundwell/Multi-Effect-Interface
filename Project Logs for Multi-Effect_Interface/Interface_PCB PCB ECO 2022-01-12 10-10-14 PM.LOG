@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Change Component Designator: OldDesignator=S? NewDesignator=S4
+Change Component Designator: OldDesignator=S? NewDesignator=S5
+Change Component Designator: OldDesignator=S? NewDesignator=S6
+Added Member To Class: ClassName=IO Member=Component S3 Interface Button TBD
+Added Member To Class: ClassName=IO Member=Component S4 Interface Button TBD
+Added Member To Class: ClassName=IO Member=Component S5 Interface Button TBD

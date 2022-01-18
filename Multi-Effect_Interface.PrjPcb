@@ -183,7 +183,75 @@ GenerateClassCluster=0
 DocumentUniqueId=XWWSBJKA
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Multi-Effect_Interface\Design Rule Check - Interface_PCB.html
+DocumentPath=Project Outputs for Multi-Effect_Interface\NC Drill\Interface_PCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Multi-Effect_Interface\NC Drill\Interface_PCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Multi-Effect_Interface\NC Drill\Interface_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Multi-Effect_Interface\NC Drill\Interface_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Multi-Effect_Interface\Gerber\Interface_PCB.RUL
 DItemRevisionGUID=
 
 [Configuration1]
